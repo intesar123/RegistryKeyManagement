@@ -1,0 +1,9 @@
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\RegistryKeyManaget.csprojResolveAssemblyReference.cache
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\RegistryKeyManaget.RegkeyManager.resources
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\RegistryKeyManaget.csproj.GenerateResource.Cache
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\ApplicationSetting.exe.config
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\ApplicationSetting.exe
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\ApplicationSetting.pdb
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.Properties.Resources.resources
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.exe
+F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.pdb
