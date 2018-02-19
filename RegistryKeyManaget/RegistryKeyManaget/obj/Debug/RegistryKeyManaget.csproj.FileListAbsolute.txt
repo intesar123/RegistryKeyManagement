@@ -7,3 +7,14 @@ F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\ApplicationSe
 F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.Properties.Resources.resources
 F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.exe
 F:\dotNet\Projects\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.pdb
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\System.Net.Http.dll
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\System.Net.Http.xml
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\RegistryKeyManaget.csprojResolveAssemblyReference.cache
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\RegistryKeyManaget.RegkeyManager.resources
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\ApplicationSetting.Properties.Resources.resources
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\RegistryKeyManaget.csproj.GenerateResource.Cache
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\Window_Registery_Key_Editor.exe.config
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\Window_Registery_Key_Editor.exe
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\bin\Debug\Window_Registery_Key_Editor.pdb
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\Window_Registery_Key_Editor.exe
+C:\Users\intesarAlam\Documents\GitHub\RegistryKeyManagement\RegistryKeyManaget\RegistryKeyManaget\obj\Debug\Window_Registery_Key_Editor.pdb
